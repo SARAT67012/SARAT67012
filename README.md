@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋 I'm Sarat
 
-<!--
-**SARAT67012/SARAT67012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Background: Economics and Mathematics 
+📊 Interested in: Data Analysis, SQL, Python, Finance  
+💼 Goal: Data Analyst / Risk Analyst Role  
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- SQL
+- Python
+- Excel
+- Power BI
+- Statistics
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- 📈 Sales Data Analysis (SQL + Excel)
+- 🏦 Bank Risk Analysis (Python)
+- 📊 Power BI Dashboard
+
+## 📫 Contact Me
+- LinkedIn: 
+- Email: saratdas67012@gmail.com
+
