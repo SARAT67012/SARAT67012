@@ -15,7 +15,7 @@
 ---
 
 ## 📊 Data Analysis Intern — Graphura Private Limited
- Nov 2025 to Jan 2026  
+ Nov 2025 - Jan 2026  
 
 - Performed data cleaning and preprocessing, including handling null values, outliers, and inconsistencies  
 - Applied data transformation techniques to prepare datasets for analysis and reporting  
