@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarat Das</h1>
-<h3 align="center">Data Analyst | Turning Data into Insights & Decisions.</h3>
+<h3 align="center">Data Analyst .</h3>
 
 ## 💼 Professional Experience
 
@@ -14,8 +14,8 @@
 
 ---
 
-## 📊 Data Analysis Intern — Graphura Private Limited  
-**Nov 2025 to Jan 2026 **
+## 📊 Data Analysis Intern — Graphura Private Limited
+ Nov 2025 to Jan 2026  
 
 - Performed data cleaning and preprocessing, including handling null values, outliers, and inconsistencies  
 - Applied data transformation techniques to prepare datasets for analysis and reporting  
