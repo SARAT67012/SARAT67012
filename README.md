@@ -1,5 +1,29 @@
 <h1 align="center">Hi 👋, I'm Sarat Das</h1>
 <h3 align="center">Data Analyst | Turning Data into Insights & Decisions.</h3>
+# 💼 Professional Experience
+
+## 📢 Marketing Intern — Nexgenelit  
+**Jun 2025 – Nov 2025**
+
+- Assisted in planning and executing digital marketing campaigns for multiple clients across diverse industries  
+- Applied B2B and B2C marketing strategies, including social media outreach and digital engagement techniques  
+- Conducted market research and competitor analysis to identify target audiences and refine campaign objectives  
+- Supported sales and lead generation activities, contributing to improved engagement and conversion rates  
+- Analyzed campaign performance data to evaluate results and optimize marketing strategies based on insights  
+
+---
+
+## 📊 Data Analysis Intern — Graphura Private Limited  
+**Internship Duration**
+
+- Performed data cleaning and preprocessing, including handling null values, outliers, and inconsistencies  
+- Applied data transformation techniques to prepare datasets for analysis and reporting  
+- Conducted Exploratory Data Analysis (EDA) to identify trends, patterns, and anomalies  
+- Executed data quality checks to ensure accuracy, completeness, and reliability of datasets  
+- Created data visualizations and dashboards to communicate insights effectively to stakeholders  
+- Collected and validated datasets from government and public data sources for analytical use cases  
+- Collaborated with team members to translate business requirements into analytical insights  
+
 
 - 📫 How to reach me **saratdas67012@gmail.com**
 
