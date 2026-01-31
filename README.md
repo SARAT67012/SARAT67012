@@ -96,17 +96,7 @@
 </p>
 
 
-## 📊 My GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=SARAT67012&show_icons=true&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SARAT67012&layout=compact&hide_border=true" />
-
-> Top languages are based on public repositories only and do not reflect overall experience or skill level.
-
-## 📈 Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SARAT67012&theme=github-light&hide_border=true" />
 
   
 
