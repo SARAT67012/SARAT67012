@@ -32,7 +32,7 @@
 
 - 📄 My Resume [https://drive.google.com/open?id=1NNECoddkFRSR8Jt_vzkQ4tyQcrZs4iJQ&usp=drive_fs](https://drive.google.com/open?id=1NNECoddkFRSR8Jt_vzkQ4tyQcrZs4iJQ&usp=drive_fs)
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
