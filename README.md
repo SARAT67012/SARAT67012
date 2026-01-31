@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sarat Das</h1>
-<h3 align="center">Data Analyst .</h3>
 
 ## 💼 Professional Experience
 
