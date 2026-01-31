@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sarat Das</h1>
 <h3 align="center">Data Analyst | Turning Data into Insights & Decisions.</h3>
-# 💼 Professional Experience
+## 💼 Professional Experience
 
 ## 📢 Marketing Intern — Nexgenelit  
 **Jun 2025 – Nov 2025**
@@ -14,7 +14,7 @@
 ---
 
 ## 📊 Data Analysis Intern — Graphura Private Limited  
-**Internship Duration**
+**Nov 2025 to Jan 2026 **
 
 - Performed data cleaning and preprocessing, including handling null values, outliers, and inconsistencies  
 - Applied data transformation techniques to prepare datasets for analysis and reporting  
@@ -25,9 +25,12 @@
 - Collaborated with team members to translate business requirements into analytical insights  
 
 
-- 📫 How to reach me **saratdas67012@gmail.com**
+## 📫 Contact Me
+- LinkedIn: https://linkedin.com/in/your-link
+- Email: saratdas67012@gmail.com
+- Phone number : 8167200506
 
-- 📄 Know about my experiences [https://drive.google.com/open?id=1NNECoddkFRSR8Jt_vzkQ4tyQcrZs4iJQ&usp=drive_fs](https://drive.google.com/open?id=1NNECoddkFRSR8Jt_vzkQ4tyQcrZs4iJQ&usp=drive_fs)
+- 📄 My Resume [https://drive.google.com/open?id=1NNECoddkFRSR8Jt_vzkQ4tyQcrZs4iJQ&usp=drive_fs](https://drive.google.com/open?id=1NNECoddkFRSR8Jt_vzkQ4tyQcrZs4iJQ&usp=drive_fs)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
