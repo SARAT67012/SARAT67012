@@ -26,7 +26,7 @@
 
 
 ## 📫 Contact Me
-- LinkedIn: https://linkedin.com/in/your-link
+- LinkedIn: www.linkedin.com/in/sarat-das-b497a1242
 - Email: saratdas67012@gmail.com
 - Phone number : 8167200506
 
