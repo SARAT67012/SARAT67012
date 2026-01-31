@@ -4,13 +4,9 @@
 📊 Interested in: Data Analysis, SQL, Python, Finance  
 💼 Goal: Data Analyst / Risk Analyst Role  
 
-## 🛠 Skills
-- SQL
-- Python
-- Excel
-- Power BI
-- Statistics
-- Git & GitHub
+## 🧰 Tech Stack
+Python · R · SQL · Excel · Power BI · Git · GitHub
+
 
 ## 📂 Projects
 - 📈 Sales Data Analysis (SQL + Excel)
